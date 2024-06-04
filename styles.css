@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(221, 203, 2)
+}
+table{
+    aspect-ratio: 1/1;
+    padding: 10px;
+    width: 75%;
+    height: 75%;
+    position: relative;
+}
+
+.bl{
+    background-color:rgb(37, 96, 35);
+    color:green;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+.wh {
+    background-color: white;
+    color: green;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+
+
+.chess-piece {
+    height: 70%;
+}
